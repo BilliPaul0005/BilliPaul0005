@@ -3,7 +3,7 @@
     <style>
       @keyframes scroll-socials {
         0% { transform: translateX(0); }
-        100% { transform: translateX(calc(-120px * 3)); } /* -120px * 3 icons */
+        100% { transform: translateX(calc(-120px * 3)); }
       }
       .scrolling-socials {
         animation: scroll-socials 15s linear infinite;
@@ -13,23 +13,23 @@
 
   <g class="scrolling-socials">
     <a xlink:href="https://instagram.com/vvk_ahj" target="_blank">
-      <image x="0" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+      <image x="0" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" />
     </a>
     <a xlink:href="https://linkedin.com/in/vivekrjha1981" target="_blank">
-      <image x="120" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+      <image x="120" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" />
     </a>
     <a xlink:href="mailto:vivekahj5002@gmail.com" target="_blank">
-       <image x="240" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+       <image x="240" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" />
     </a>
 
     <a xlink:href="https://instagram.com/vvk_ahj" target="_blank">
-      <image x="360" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+      <image x="360" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" />
     </a>
     <a xlink:href="https://linkedin.com/in/vivekrjha1981" target="_blank">
-      <image x="480" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+      <image x="480" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" />
     </a>
     <a xlink:href="mailto:vivekahj5002@gmail.com" target="_blank">
-       <image x="600" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+       <image x="600" y="10" width="110" height="20" xlink:href="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" />
     </a>
   </g>
 </svg>
