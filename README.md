@@ -15,16 +15,27 @@
 
 ## 🌐 Socials
 <p align="center">
-  <img src=".github/assets/socials.svg" alt="My Socials" />
+  <a href="https://linkedin.com/in/vivekrjha1981" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/vvk_ahj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:vivekahj5002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 ## 💻 Tech Stack
-<p align="center">
-  <a href="https://github.com/BilliPaul0005/BilliPaul0005">
-    <img src=".github/assets/tech-stack.svg" alt="My Tech Stack" />
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,java,go,js,kotlin,swift,ruby,bash,ps,py,solidity,ts,react,nextjs,nestjs,angular,vite,redux,flutter,nodejs,mongodb,mysql,postgres,firebase,supabase,nginx,jenkins,git,github,gitlab,docker,postman,vercel,render,oracle,dotnet,expo,ejs,flask,jwt,opencv,npm,radixui,web3js,numpy,pandas,pytorch,tensorflow&perline=15" />
   </a>
+</p>
+<p align="center">
+  <i>Note: Some custom icons like Riot Games and nVIDIA are not available in this set.</i>
 </p>
 
 ---
