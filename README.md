@@ -89,10 +89,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=BilliPaul0005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 
 <p align="center">
