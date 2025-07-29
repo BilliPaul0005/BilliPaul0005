@@ -1,0 +1,125 @@
+<svg width="100%" height="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      @keyframes scroll {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(calc(-110px * 54)); } /* -110px * 54 icons */
+      }
+      .scrolling-group {
+        animation: scroll 110s linear infinite; /* Duration: ~2s per icon */
+      }
+    </style>
+  </defs>
+
+  <g class="scrolling-group">
+    <image x="0" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <image x="110" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+    <image x="220" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <image x="330" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <image x="440" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <image x="550" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+    <image x="660" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <image x="770" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <image x="880" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+    <image x="990" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+    <image x="1100" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <image x="1210" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+    <image x="1320" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <image x="1430" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+    <image x="1540" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <image x="1650" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    <image x="1760" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+    <image x="1870" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    <image x="1980" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <image x="2090" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <image x="2200" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
+    <image x="2310" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+    <image x="2420" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" />
+    <image x="2530" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+    <image x="2640" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <image x="2750" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+    <image x="2860" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+    <image x="2970" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <image x="3080" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <image x="3190" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <image x="3300" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+    <image x="3410" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" />
+    <image x="3520" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+    <image x="3630" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <image x="3740" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <image x="3850" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+    <image x="3960" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+    <image x="4070" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <image x="4180" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+    <image x="4290" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+    <image x="4400" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <image x="4510" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <image x="4620" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <image x="4730" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+    <image x="4840" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+    <image x="4950" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+    <image x="5060" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <image x="5170" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    <image x="5280" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <image x="5390" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <image x="5500" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <image x="5610" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
+    <image x="5720" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" />
+    <image x="5830" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+    <image x="5940" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <image x="6050" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+    <image x="6160" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <image x="6270" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <image x="6380" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <image x="6490" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+    <image x="6600" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <image x="6710" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <image x="6820" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+    <image x="6930" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+    <image x="7040" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <image x="7150" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+    <image x="7260" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <image x="7370" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+    <image x="7480" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <image x="7590" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    <image x="7700" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+    <image x="7810" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    <image x="7920" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <image x="8030" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <image x="8140" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
+    <image x="8250" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+    <image x="8360" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" />
+    <image x="8470" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+    <image x="8580" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <image x="8690" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+    <image x="8800" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+    <image x="8910" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <image x="9020" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <image x="9130" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <image x="9240" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+    <image x="9350" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" />
+    <image x="9460" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+    <image x="9570" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <image x="9680" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <image x="9790" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+    <image x="9900" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+    <image x="10010" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <image x="10120" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+    <image x="10230" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+    <image x="10340" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <image x="10450" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <image x="10560" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <image x="10670" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+    <image x="10780" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+    <image x="10890" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+    <image x="11000" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <image x="11110" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    <image x="11220" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <image x="11330" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <image x="11440" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <image x="11550" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
+    <image x="11660" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" />
+    <image x="11770" y="10" width="100" height="28" xlink:href="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </g>
+</svg>
