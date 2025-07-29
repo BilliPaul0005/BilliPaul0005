@@ -28,14 +28,12 @@
 
 ---
 
----
-
 ## 💻 Tech Stack
 <p align="center"> 
-  <img src="tech-stack.gif" alt="My Tech Stack Animation" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,java,go,js,kotlin,swift,ruby,bash,ps,py,solidity,ts,react,nextjs,nestjs,angular,vite,redux,flutter,nodejs,mongodb,mysql,postgres,firebase,supabase,nginx,jenkins,git,github,gitlab,docker,postman,vercel,render,oracle,dotnet,expo,ejs,flask,jwt,opencv,npm,radixui,web3js,numpy,pandas,pytorch,tensorflow&perline=17" />
+  </a>
 </p>
-
----
 
 ---
 
