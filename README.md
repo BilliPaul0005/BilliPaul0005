@@ -34,9 +34,6 @@
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,java,go,js,kotlin,swift,ruby,bash,ps,py,solidity,ts,react,nextjs,nestjs,angular,vite,redux,flutter,nodejs,mongodb,mysql,postgres,firebase,supabase,nginx,jenkins,git,github,gitlab,docker,postman,vercel,render,oracle,dotnet,expo,ejs,flask,jwt,opencv,npm,radixui,web3js,numpy,pandas,pytorch,tensorflow&perline=15" />
   </a>
 </p>
-<p align="center">
-  <i>Note: Some custom icons like Riot Games and nVIDIA are not available in this set.</i>
-</p>
 
 ---
 
